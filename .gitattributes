@@ -1,2 +1,2 @@
-*.txt filter=git-crypt diff=git-crypt
-*.sh filter=git-crypt diff=git-crypt
+* filter=git-crypt diff=git-crypt merge=git-crypt
+.gitattributes !filter !diff !merge
